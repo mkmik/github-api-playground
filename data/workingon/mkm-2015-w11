@@ -8,3 +8,5 @@
   timestamp: 2015-03-10 01:01:07.42641234 +0000 UTC
 - topic: test new
   timestamp: 2015-03-10 01:07:01.216209581 +0000 UTC
+- topic: test 2
+  timestamp: 2015-03-10 01:07:53.145400182 +0000 UTC
