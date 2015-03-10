@@ -18,3 +18,5 @@
   timestamp: ""
 - topic: Test 8
   timestamp: 2015-03-10 01:16:11.64975738 +0100 CET
+- topic: Test 8
+  timestamp: 2015-03-10 01:18:04.20784668 +0100 CET
