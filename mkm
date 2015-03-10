@@ -7,4 +7,6 @@
 - topic: Test 8
   optional: ""
 - topic: Test 8
-  optional: null
+  optional: ""
+- topic: Test 8
+  optional: ""
